@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FourthRatings
+comment0.text=\n\ Core\ recommendation\ engine\ for\ the\ capstone.\n\ Depends\ on\:\ RaterDatabase,\ MovieDatabase,\ Filter,\ Rating,\ Rater\n
+comment1.params=
+comment1.target=FourthRatings()
+comment2.params=movieID\ minimalRaters
+comment2.target=double\ getAverageByID(java.lang.String,\ int)
+numComments=3
